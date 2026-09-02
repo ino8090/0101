@@ -1,0 +1,6 @@
+RATING_ICON_URLS = {
+    "+7":  os.getenv("RATING_ICON_7",  "https://raw.githubusercontent.com/KULLANICI_ADI/BASKA_DEPO/refs/heads/main/rating_7.png"),
+    "+13": os.getenv("RATING_ICON_13", "https://raw.githubusercontent.com/KULLANICI_ADI/BASKA_DEPO/refs/heads/main/rating_13.png"),
+    "+16": os.getenv("RATING_ICON_16", "https://raw.githubusercontent.com/KULLANICI_ADI/BASKA_DEPO/refs/heads/main/rating_16.png"),
+    "+18": os.getenv("RATING_ICON_18", "https://www.rtukisaretler.gov.tr/img/symbols/new/18yas80.gif"),
+}
