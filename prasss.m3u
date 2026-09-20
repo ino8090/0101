@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tele5.tr" tvg-name="Tele 5" tvg-logo="https://raw.githubusercontent.com/ino8090/0101/refs/heads/main/file_000000001218821086dc1a6d6539a2b9.png",Tele 5
+rtmp://ssh101.bozztv.com:1935/ssh101/5tele
+
 #EXTINF:-1,Hit Man (2024)
 https://vs20.photofunny.org/v/Hit.Man.2023.WEB-DL.1080p.DUAL.H.264-HDM/1080.m3u8
 #EXTINF:-1,Şeytan Marka Giyer 2 (2026)
